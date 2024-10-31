@@ -6,6 +6,6 @@ folium
 streamlit_folium
 multiapp
 matplotlib
-sklearn
+scikit-learn
 geocoder
 openai
