@@ -1,0 +1,11 @@
+matplotlib
+pandas
+streamlit
+numpy
+folium
+streamlit_folium
+multiapp
+matplotlib
+sklearn
+geocoder
+openai
