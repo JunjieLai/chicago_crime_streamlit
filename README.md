@@ -38,11 +38,3 @@ This dataset reflects reported incidents of crime (with the exception of murders
 | multiapp.py | The python file used to implement multi-page functionality   |
 | app.py      | The python file to run                                       |
 |requirements.txt|Contains all requirements (necessary for Streamlit sharing)|
-
-
-
-
-
-
-
-# chicago_crime_streamlit
